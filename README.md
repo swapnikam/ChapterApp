@@ -1,12 +1,12 @@
 # Chartered Coding Challenge
 
-# This will expose the rest API to get Customer rewards point based on customer ID
+This will expose the rest API to get Customer rewards point based on customer ID
 
-# The problem Statement was below
+### The problem Statement was below
 
-# A retailer offers a rewards program to its customers awarding points based on each recorded purchase as follows
+- A retailer offers a rewards program to its customers awarding points based on each recorded purchase as follows
 
-# For every dollar spent over $50 on the transaction, the customer receives one point. In addition, for every dollar spent over $100, the customer receives another point. Ex: for a $120 purchase, the customer receives
+- For every dollar spent over $50 on the transaction, the customer receives one point. In addition, for every dollar spent over $100, the customer receives another point. Ex: for a $120 purchase, the customer receives
 
 ### CUSTOMER_TABLE
 
