@@ -1,0 +1,38 @@
+{
+	"id": "b75c91cd-ba5f-b19d-03f4-3e1dac84bce4",
+	"name": "charterApp",
+	"description": "",
+	"order": [
+		"9a6c7ad1-a0dc-230a-e68f-fd7b86a6ce9d"
+	],
+	"folders": [],
+	"folders_order": [],
+	"timestamp": 1677091362119,
+	"owner": 0,
+	"public": false,
+	"requests": [
+		{
+			"id": "9a6c7ad1-a0dc-230a-e68f-fd7b86a6ce9d",
+			"headers": "",
+			"headerData": [],
+			"url": "http://localhost:8080/rewards/1",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "GET",
+			"collectionId": "b75c91cd-ba5f-b19d-03f4-3e1dac84bce4",
+			"data": null,
+			"dataMode": "params",
+			"name": "http://localhost:8080/rewards/1",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1677091449953,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		}
+	]
+}
